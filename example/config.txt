@@ -1,0 +1,2 @@
+Prefix plugins/Zero2One/example
+Plugin Zero2One inputfile synthetic.csv outputfile synthetic.perturb.csv
